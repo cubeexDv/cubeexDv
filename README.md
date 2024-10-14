@@ -1,4 +1,4 @@
-[yutub][https://www.youtube.com]
+[yutub](https://www.youtube.com)
 всем привет
 
 # динаху
